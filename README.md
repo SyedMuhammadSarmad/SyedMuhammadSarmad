@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SyedMuhammadSarmad
 - 🎓 I am currently studying Bachelors in Computer Science from Virtual University of Pakistan
 - 👀 I’m interested in Artifical Intelligence, Machine Learning and Internet of Things
-- 🌱 I’m currently learning AI, ML, IoI and other technologies
+- 🌱 I’m currently learning AI, ML, IoT and other technologies
 - 🚩 I’m looking to collaborate on various projects related Machine Learning and Artifical Intelligence
 - 📫 How to reach me smsarmad92@gmail.com
 
