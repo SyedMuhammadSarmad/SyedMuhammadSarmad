@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SyedMuhammadSarmad
+- 👋 Hi, I’m Syed Muhammad Sarmad
 - 🎓 I am currently studying Bachelors in Computer Science from Virtual University of Pakistan
 - 👀 I’m interested in Artifical Intelligence, Machine Learning and Internet of Things
 - 🌱 I’m currently learning AI, ML, IoT and other technologies
